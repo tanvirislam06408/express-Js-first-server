@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "brand": "Apple",
+    "model": "iPhone 15 Pro",
+    "specs": {
+      "screen_size": "6.1 inches",
+      "display_type": "LTPO Super Retina XDR OLED",
+      "processor": "A17 Pro",
+      "ram": "8GB",
+      "storage": ["128GB", "256GB", "512GB", "1TB"],
+      "battery": "3274 mAh"
+    },
+    "camera": {
+      "main": "48 MP",
+      "telephoto": "12 MP",
+      "ultrawide": "12 MP",
+      "front": "12 MP"
+    },
+    "connectivity": ["5G", "Wi-Fi 6E", "Bluetooth 5.3", "NFC"],
+    "price_usd": 999.00,
+    "in_stock": true
+  },
+  {
+    "id": 2,
+    "brand": "Samsung",
+    "model": "Galaxy S24 Ultra",
+    "specs": {
+      "screen_size": "6.8 inches",
+      "display_type": "Dynamic LTPO AMOLED 2X",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": ["256GB", "512GB", "1TB"],
+      "battery": "5000 mAh"
+    },
+    "camera": {
+      "main": "200 MP",
+      "periscope_telephoto": "50 MP",
+      "ultrawide": "12 MP",
+      "front": "12 MP"
+    },
+    "connectivity": ["5G", "Wi-Fi 7", "Bluetooth 5.3", "NFC", "UWB"],
+    "price_usd": 1299.99,
+    "in_stock": true
+  },
+  {
+    "id": 3,
+    "brand": "Google",
+    "model": "Pixel 8",
+    "specs": {
+      "screen_size": "6.2 inches",
+      "display_type": "OLED",
+      "processor": "Google Tensor G3",
+      "ram": "8GB",
+      "storage": ["128GB", "256GB"],
+      "battery": "4575 mAh"
+    },
+    "camera": {
+      "main": "50 MP",
+      "ultrawide": "12 MP",
+      "front": "10.5 MP"
+    },
+    "connectivity": ["5G", "Wi-Fi 7", "Bluetooth 5.3", "NFC"],
+    "price_usd": 699.00,
+    "in_stock": false
+  }
+]
